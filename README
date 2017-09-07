@@ -17,3 +17,4 @@ HOW TO RUN
  - Run 'mq_st_client' several times and run 'mq_st_server' to print and pop out the top of message queue
  - If message queue is empty, 'mq_st_server' will print out message that 'empty queue'.
    ex) If you run 'mq_st_client' 3 times, 'mq_st_server' can print and pot out 3 times. 
+   Hello
